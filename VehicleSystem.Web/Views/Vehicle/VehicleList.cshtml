@@ -1,0 +1,47 @@
+﻿@model List<VehicleViewModel>
+
+<div class="container">
+    <h2 class="text-center">Vehicle List</h2>
+    <hr/>
+    <div class="pull-right">
+        <a class="btn btn-success" href='@Url.Action("Addvehicle", "Vehicle")'>
+            <i class="fa fa-plus"></i> New Vehicle
+        </a>
+    </div>
+    <br/>
+    <br/>
+    <table class="table">
+        <tr>
+            <th>Plate</th>
+            <th>Nick Name</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Year</th>
+            <th>Type</th>
+            <th>Color</th>
+            <th>Active</th>
+            <th></th>
+        </tr>
+        @foreach (var vehicle in Model)
+        {
+            <tr>
+                <td>@vehicle.Plate</td>
+                <td>@vehicle.NickName</td>
+                <td>@vehicle.Brand</td>
+                <td>@vehicle.Model</td>
+                <td>@vehicle.Year</td>
+                <td>@vehicle.Type</td>
+                <td>@vehicle.Color</td>
+                <td>@vehicle.IsActive</td>
+                <td class="text-center">
+                    <a class="btn btn-primary btn-xs" href='@Url.Action("UpdateVehicle", "Vehicle", new {id = vehicle.Id})'>
+                        <i class="fa fa-pencil text-center"></i>
+                    </a> |
+                    <a class="btn btn-danger btn-xs" href='@Url.Action("DeleteVehicle", "Vehicle", new {id = vehicle.Id})' onclick="return confirm('Are you sure you want to Delete?')">
+                        <i class="fa fa-trash text-center"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

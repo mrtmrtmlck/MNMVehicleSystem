@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSystem.Api", "VehicleSystem.Api\VehicleSystem.Api.csproj", "{DFE9B291-F13A-4413-BD23-28FBAAF256D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSystem.Web", "VehicleSystem.Web\VehicleSystem.Web.csproj", "{B15784A6-62C9-48EC-98D8-F3A23D44EA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE9B291-F13A-4413-BD23-28FBAAF256D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE9B291-F13A-4413-BD23-28FBAAF256D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE9B291-F13A-4413-BD23-28FBAAF256D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE9B291-F13A-4413-BD23-28FBAAF256D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15784A6-62C9-48EC-98D8-F3A23D44EA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15784A6-62C9-48EC-98D8-F3A23D44EA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15784A6-62C9-48EC-98D8-F3A23D44EA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15784A6-62C9-48EC-98D8-F3A23D44EA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

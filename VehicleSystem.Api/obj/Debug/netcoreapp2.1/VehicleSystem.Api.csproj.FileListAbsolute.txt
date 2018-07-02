@@ -1,0 +1,14 @@
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/bin/Debug/netcoreapp2.1/VehicleSystem.Api.deps.json
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/bin/Debug/netcoreapp2.1/VehicleSystem.Api.runtimeconfig.json
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/bin/Debug/netcoreapp2.1/VehicleSystem.Api.runtimeconfig.dev.json
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/bin/Debug/netcoreapp2.1/VehicleSystem.Api.dll
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/bin/Debug/netcoreapp2.1/VehicleSystem.Api.pdb
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/obj/Debug/netcoreapp2.1/VehicleSystem.Api.csprojAssemblyReference.cache
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/obj/Debug/netcoreapp2.1/VehicleSystem.Api.csproj.CoreCompileInputs.cache
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/obj/Debug/netcoreapp2.1/VehicleSystem.Api.RazorAssemblyInfo.cache
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/obj/Debug/netcoreapp2.1/VehicleSystem.Api.RazorAssemblyInfo.cs
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/obj/Debug/netcoreapp2.1/VehicleSystem.Api.AssemblyInfoInputs.cache
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/obj/Debug/netcoreapp2.1/VehicleSystem.Api.AssemblyInfo.cs
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/obj/Debug/netcoreapp2.1/VehicleSystem.Api.RazorTargetAssemblyInfo.cache
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/obj/Debug/netcoreapp2.1/VehicleSystem.Api.dll
+/Users/mertmalcok/RiderProjects/VehicleSystem/VehicleSystem.Api/obj/Debug/netcoreapp2.1/VehicleSystem.Api.pdb
